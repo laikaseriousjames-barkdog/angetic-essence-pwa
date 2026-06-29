@@ -1,0 +1,38 @@
+{
+  "name": "Angetic Essence",
+  "short_name": "Angetic",
+  "description": "Autonomous AI, Untethered. Fully local Tri-Agent orchestration console.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#00e5cc",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": [],
+  "shortcuts": [
+    {
+      "name": "Get Started",
+      "url": "/index.html#get-started",
+      "description": "Download or buy a license"
+    },
+    {
+      "name": "Capabilities",
+      "url": "/index.html#capabilities",
+      "description": "View all features"
+    }
+  ]
+}
